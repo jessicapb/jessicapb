@@ -2,10 +2,9 @@
 
 Soy **desarrolladora web fullstack**, con un enfoque especial en frontend y bases de datos. Me apasiona crear interfaces accesibles, responsivas y centradas en la experiencia del usuario. Actualmente sigo formándome por mi cuenta, con especial interés en **Angular** y el mundo de **DevOps**.
 
-📍  Viladecans, Barcelona
-
+📍 Viladecans (Barcelona)  
 🎓 Graduada en Desarrollo de Aplicaciones Web  
-💼 Con experiencia práctica en entornos reales (Clickame)
+💼 Con experiencia práctica en entornos reales (Clickame, Escuela Marta Mata)
 
 ---
 
