@@ -28,11 +28,8 @@ Soy **desarrolladora web fullstack**, con un enfoque especial en frontend y base
 
 ## 🚀 Proyectos destacados
 
-- 🎯 **[CeliFind](https://github.com/jessicapb/CeliFind)**  
-  Buscador web para encontrar productos sin gluten, desarrollado con Laravel y MySQL.
-
-- 💻 **[Portfolio personal](https://github.com/jessicapb/mi-portfolio)** *(en desarrollo)*  
-  Sitio web personal para mostrar mis proyectos, habilidades y contacto.
+- 🎯 **[CeliFind](https://github.com/jessicapb/CeliFind)** *(en desarrollo)*  
+  Aplicación web para encontrar productos,recetas y mucho más sin gluten. Desarrollado con Laravel, MySQL, React, Javascript.
 
 ---
 
@@ -50,5 +47,3 @@ Soy **desarrolladora web fullstack**, con un enfoque especial en frontend y base
 - 📬 jessica.prats13@gmail.com
 
 ---
-
-> ✨ *"No hay límites para quien nunca deja de aprender."*
