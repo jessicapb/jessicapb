@@ -2,9 +2,9 @@
 
 Soy **desarrolladora web fullstack**, con un enfoque especial en frontend y bases de datos. Me apasiona crear interfaces accesibles, responsivas y centradas en la experiencia del usuario. Actualmente sigo formándome por mi cuenta, con especial interés en **Angular** y el mundo de **DevOps**.
 
-📍 Viladecans (Barcelona)  
+📍  Barcelona
 🎓 Graduada en Desarrollo de Aplicaciones Web  
-💼 Con experiencia práctica en entornos reales (Clickame, Escuela Marta Mata)
+💼 Con experiencia práctica en entornos reales (Clickame)
 
 ---
 
@@ -18,6 +18,7 @@ Soy **desarrolladora web fullstack**, con un enfoque especial en frontend y base
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
